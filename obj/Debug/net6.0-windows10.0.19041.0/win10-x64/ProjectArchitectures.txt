@@ -1,0 +1,1 @@
+C:\Users\asus\source\repos\mvvmcontact\mvvmcontact.csproj;x64
