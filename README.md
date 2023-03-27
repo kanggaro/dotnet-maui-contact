@@ -4,4 +4,7 @@ Pada Saat Pertama kali dibuka, maka Aplikasi akan menampilkan Contact Info. di H
 
 ####  ContactPage View
 
-![image](https://user-images.githubusercontent.com/90663373/227829534-309b5476-5794-439e-abab-39db9d1e73fc.png)
+![image](https://user-images.githubusercontent.com/90663373/227831265-4522a754-f918-489a-9b44-092e985c607c.png)
+
+#### Kendala
+Masih belum berhasil menambahkan detail page
