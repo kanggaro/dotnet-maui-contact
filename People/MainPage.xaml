@@ -20,6 +20,17 @@
         <Entry x:Name="newPerson"
            Placeholder="Enter name" />
 
+        <TableView Intent="Data" Grid.Row="0" Grid.ColumnSpan="3">
+            <TableRoot>
+                <TableSection Title="Part Info">
+                    <EntryCell Label="Part ID" Text="{Binding PartID}" IsEnabled="False" />
+                    <EntryCell Label="Part Name" Text="{Binding PartName}" />
+                    <EntryCell Label="Part Type" Text="{Binding PartType}" />
+                    <EntryCell Label="Supplier" Text="{Binding Suppliers}" />
+                </TableSection>
+            </TableRoot>
+        </TableView>
+
         <Button Text="Add Contact"
             Grid.Row="1"
             Clicked="OnNewButtonClicked" />
