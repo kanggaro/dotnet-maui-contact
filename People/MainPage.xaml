@@ -17,16 +17,15 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <Entry x:Name="newPerson"
-           Placeholder="Enter name" />
-
-        <TableView Intent="Data" Grid.Row="0" Grid.ColumnSpan="3">
+        <TableView Intent="Data" Grid.Row="0" Grid.ColumnSpan="3" Margin="0,20">
             <TableRoot>
-                <TableSection Title="Part Info">
-                    <EntryCell Label="Part ID" Text="{Binding PartID}" IsEnabled="False" />
-                    <EntryCell Label="Part Name" Text="{Binding PartName}" />
-                    <EntryCell Label="Part Type" Text="{Binding PartType}" />
-                    <EntryCell Label="Supplier" Text="{Binding Suppliers}" />
+                <TableSection Title="Contact Info">
+                    <EntryCell Label="ID Contact" Text="{Binding ID}" Placeholder="Auto Filled" IsEnabled="False" />
+                    <EntryCell Label="Contact Name" x:Name="newPerson" Placeholder="Enter name" />
+                    <EntryCell Label="Company Name" Placeholder="Your Company" />
+                    <EntryCell Label="Email" Placeholder="user@gmail.com"/>
+                    <EntryCell Label="Telepon" Text="{Binding Suppliers}" Placeholder="0812 1212 1212"/>
+                    <EntryCell Label="Telepon Perusahaan" Text="{Binding Suppliers}" Placeholder="021 2121"/>
                 </TableSection>
             </TableRoot>
         </TableView>

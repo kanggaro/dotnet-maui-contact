@@ -3,7 +3,7 @@
   <Identity Publisher="CN=User Name" Name="EFACD191-1282-47B4-9621-886F2D7D2DC6" Version="1.0.0.1" />
   <Properties>
     <PublisherDisplayName>User Name</PublisherDisplayName>
-    <DisplayName>People</DisplayName>
+    <DisplayName>Contact</DisplayName>
     <Logo>appiconStoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -17,8 +17,8 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements DisplayName="People" Description="People" BackgroundColor="transparent" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png">
-        <uap:DefaultTile Wide310x150Logo="appiconWideTile.png" Square71x71Logo="appiconSmallTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="People">
+      <uap:VisualElements DisplayName="Contact" Description="Contact" BackgroundColor="transparent" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png">
+        <uap:DefaultTile Wide310x150Logo="appiconWideTile.png" Square71x71Logo="appiconSmallTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="Contact">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="wide310x150Logo" />

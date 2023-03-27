@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VcV0GF9kwFH/HXqu3B8paq1GmHvJuyyfxEHR0rDhx/Rlr5e24kaG2Njkfx2JybsBBU5ND0svwSf7jh2rmbd2YQ==",
+  "dgSpecHash": "dl+5QKtzixPoCY9v33ejQGJ26MiHXTBCBloEwvBEIfeGJ1eh7jDaLamPi/nrZIsg3kBZUpW8zgdfIy+AQkfJSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\source\\repos\\mvvmcontact\\dotnet-maui-contact\\People\\Contact.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Downloads\\pbkk a\\dotnet-maui-contact\\People\\Contact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

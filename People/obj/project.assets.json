@@ -27515,11 +27515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\mvvmcontact\\dotnet-maui-contact\\People\\Contact.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Downloads\\pbkk a\\dotnet-maui-contact\\People\\Contact.csproj",
       "projectName": "Contact",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\mvvmcontact\\dotnet-maui-contact\\People\\Contact.csproj",
+      "projectPath": "C:\\Users\\asus\\Downloads\\pbkk a\\dotnet-maui-contact\\People\\Contact.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\mvvmcontact\\dotnet-maui-contact\\People\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Downloads\\pbkk a\\dotnet-maui-contact\\People\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>EFACD191-1282-47B4-9621-886F2D7D2DC6</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>47E08570645BF8177B065F3D7609BFA79897A4F8F624718FF928A05731974978</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <RegisteredManifestChecksum>776879EE174A9FA9E88D611CDE749FA0E07F10EC764F83A848F0B1507EB6CEAD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>EFACD191-1282-47B4-9621-886F2D7D2DC6_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>EFACD191-1282-47B4-9621-886F2D7D2DC6_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>EFACD191-1282-47B4-9621-886F2D7D2DC6</RegisteredPackageID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-27T02:31:59.646</Modified>
+      <Modified>2023-03-27T03:07:00.632</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-27T02:31:59.213</Modified>
+      <Modified>2023-03-27T03:07:00.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.runtimeconfig.json">
       <PackagePath>Contact.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-27T02:09:23.580</Modified>
+      <Modified>2023-03-27T03:05:44.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.dll">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.dll">
       <PackagePath>Contact.dll</PackagePath>
-      <Modified>2023-03-27T02:31:58.266</Modified>
+      <Modified>2023-03-27T03:06:58.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Contact.exe</PackagePath>
-      <Modified>2023-03-27T02:31:58.338</Modified>
+      <Modified>2023-03-27T03:06:59.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1086,9 +1086,9 @@
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.deps.json">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Contact.deps.json">
       <PackagePath>Contact.deps.json</PackagePath>
-      <Modified>2023-03-27T02:31:59.497</Modified>
+      <Modified>2023-03-27T03:07:00.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\asus\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1102,241 +1102,241 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-11-17T18:14:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-03-27T01:56:58.159</Modified>
+      <Modified>2023-03-27T03:05:00.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:06.905</Modified>
+      <Modified>2023-03-27T03:05:41.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:06.920</Modified>
+      <Modified>2023-03-27T03:05:41.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:06.942</Modified>
+      <Modified>2023-03-27T03:05:41.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:06.974</Modified>
+      <Modified>2023-03-27T03:05:41.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.101</Modified>
+      <Modified>2023-03-27T03:05:41.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-03-27T01:56:58.159</Modified>
+      <Modified>2023-03-27T03:05:00.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-03-27T01:56:58.159</Modified>
+      <Modified>2023-03-27T03:05:00.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-03-27T01:58:07.155</Modified>
+      <Modified>2023-03-27T03:05:41.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.407</Modified>
+      <Modified>2023-03-27T03:05:42.003</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.418</Modified>
+      <Modified>2023-03-27T03:05:42.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.429</Modified>
+      <Modified>2023-03-27T03:05:42.025</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.449</Modified>
+      <Modified>2023-03-27T03:05:42.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.513</Modified>
+      <Modified>2023-03-27T03:05:42.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.228</Modified>
+      <Modified>2023-03-27T03:05:41.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.231</Modified>
+      <Modified>2023-03-27T03:05:41.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.244</Modified>
+      <Modified>2023-03-27T03:05:41.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.234</Modified>
+      <Modified>2023-03-27T03:05:41.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.237</Modified>
+      <Modified>2023-03-27T03:05:41.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.207</Modified>
+      <Modified>2023-03-27T03:05:41.820</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.211</Modified>
+      <Modified>2023-03-27T03:05:41.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.224</Modified>
+      <Modified>2023-03-27T03:05:41.836</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.214</Modified>
+      <Modified>2023-03-27T03:05:41.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.217</Modified>
+      <Modified>2023-03-27T03:05:41.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.164</Modified>
+      <Modified>2023-03-27T03:05:41.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.169</Modified>
+      <Modified>2023-03-27T03:05:41.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.172</Modified>
+      <Modified>2023-03-27T03:05:41.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.176</Modified>
+      <Modified>2023-03-27T03:05:41.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.180</Modified>
+      <Modified>2023-03-27T03:05:41.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.185</Modified>
+      <Modified>2023-03-27T03:05:41.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.188</Modified>
+      <Modified>2023-03-27T03:05:41.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.203</Modified>
+      <Modified>2023-03-27T03:05:41.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.190</Modified>
+      <Modified>2023-03-27T03:05:41.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.196</Modified>
+      <Modified>2023-03-27T03:05:41.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.290</Modified>
+      <Modified>2023-03-27T03:05:41.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.297</Modified>
+      <Modified>2023-03-27T03:05:41.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.304</Modified>
+      <Modified>2023-03-27T03:05:41.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.312</Modified>
+      <Modified>2023-03-27T03:05:41.918</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.327</Modified>
+      <Modified>2023-03-27T03:05:41.934</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.265</Modified>
+      <Modified>2023-03-27T03:05:41.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.270</Modified>
+      <Modified>2023-03-27T03:05:41.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.274</Modified>
+      <Modified>2023-03-27T03:05:41.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.279</Modified>
+      <Modified>2023-03-27T03:05:41.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.286</Modified>
+      <Modified>2023-03-27T03:05:41.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.248</Modified>
+      <Modified>2023-03-27T03:05:41.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.251</Modified>
+      <Modified>2023-03-27T03:05:41.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.254</Modified>
+      <Modified>2023-03-27T03:05:41.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.257</Modified>
+      <Modified>2023-03-27T03:05:41.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.262</Modified>
+      <Modified>2023-03-27T03:05:41.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.334</Modified>
+      <Modified>2023-03-27T03:05:41.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.342</Modified>
+      <Modified>2023-03-27T03:05:41.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.349</Modified>
+      <Modified>2023-03-27T03:05:41.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.365</Modified>
+      <Modified>2023-03-27T03:05:41.965</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.398</Modified>
+      <Modified>2023-03-27T03:05:41.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.200</Modified>
+      <Modified>2023-03-27T03:05:41.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.209</Modified>
+      <Modified>2023-03-27T03:05:41.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.221</Modified>
+      <Modified>2023-03-27T03:05:41.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.238</Modified>
+      <Modified>2023-03-27T03:05:41.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\asus\Downloads\pbkk a\dotnet-maui-contact\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-03-27T01:58:07.282</Modified>
+      <Modified>2023-03-27T03:05:41.878</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
