@@ -1,1 +1,1 @@
-C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\People.csproj;x64
+C:\Users\asus\source\repos\mvvmcontact\dotnet-maui-contact\People\Contact.csproj;x64

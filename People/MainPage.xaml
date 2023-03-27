@@ -20,14 +20,14 @@
         <Entry x:Name="newPerson"
            Placeholder="Enter name" />
 
-        <Button Text="Add Person"
+        <Button Text="Add Contact"
             Grid.Row="1"
             Clicked="OnNewButtonClicked" />
 
         <Label x:Name="statusMessage"
            Grid.Row="2" />
 
-        <Button Text="Get All People"
+        <Button Text="Get All Contact"
             Grid.Row="3"
             Clicked="OnGetButtonClicked" />
 

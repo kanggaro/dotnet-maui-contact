@@ -24,7 +24,7 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="People.exe" EntryPoint="Windows.FullTrustApplication">
+    <Application Id="App" Executable="Contact.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements DisplayName="People" Description="People" BackgroundColor="transparent" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png">
         <uap:DefaultTile Wide310x150Logo="appiconWideTile.png" Square71x71Logo="appiconSmallTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="People">
           <uap:ShowNameOnTiles>
